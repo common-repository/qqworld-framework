@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QQworld Framework\n"
+"Report-Msgid-Bugs-To: http://www.qqworld.org\n"
+"POT-Creation-Date: 2011-12-10 19:47:15+00:00\n"
+"PO-Revision-Date: 2013-10-26 16:43+0800\n"
+"Last-Translator: Micahel Wang  <admin@qqworld.org>\n"
+"Language-Team: QQWorld <admin@qqworld.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: cpanel.php:3
+msgid "QQWorld Framework"
+msgstr "QQWorld框架"
+
+#: cpanel.php:5
+msgid "For commercial website design and production."
+msgstr "为商业网站设计制作而生。"
+
+# --------------------------------------
+msgid "Screenshot"
+msgstr "截图"
+
+msgid "Attribute"
+msgstr "属性"
+
+msgid "Value &amp; Description"
+msgstr "值和描述"
+
+msgid "For example:"
+msgstr "举例："
+
+msgid "%1$s have enabled the %2$s: "
+msgstr "已启用的%2$s%1$s："
+
+msgid "Have enabled the %s: "
+msgstr "已启用的%s："
+
+# #####################################################
+#: cpanel.php:54
+msgid "Runtime"
+msgstr "运行库"
+
+msgid "Use following code to call %s runtime in template files:"
+msgstr "在模板文件中使用下面的代码调用%s运行库："
+
+# --------------------------------------
+msgid "Common"
+msgstr "通用"
+
+msgid "Using for page title."
+msgstr "用户页面标题。"
+
+msgid ""
+"Ban on WordPress automatically translate half Angle symbol for the Angle of "
+"symbol, used in Chinese."
+msgstr "禁止WordPress自动转译半角符号为全角符号，用于中文"
+
+msgid ""
+"The custom head and footer code, such as statistical code, site icon code."
+msgstr "自定义head和footer的代码，比如统计代码，网站图标代码。"
+
+msgid "Theme General Settings"
+msgstr "主题常规设置"
+
+msgid "Header(&lt;header&gt;..&lt;/header&gt;)"
+msgstr "头部(&lt;header&gt;..&lt;/header&gt;)"
+
+msgid "Footer(..&lt;/body&gt;)"
+msgstr "页尾(..&lt;/body&gt;)"
+
+msgid "Keywords"
+msgstr "关键词"
+
+msgid "Using for SEO."
+msgstr "用于搜索引擎优化"
+
+msgid "Using for wp_login.php & wp_singup.php."
+msgstr "用于wp_login.php和wp_singup.php。"
+
+# --------------------------------------
+msgid "Post Type"
+msgstr "文章类型"
+
+msgid "Add New %s"
+msgstr "添加新%s"
+
+msgid "All %s"
+msgstr "所有%s"
+
+msgid "Edit %s"
+msgstr "编辑%s"
+
+msgid "View %s"
+msgstr "查看%s"
+
+msgid "Search %s"
+msgstr "搜索%s"
+
+msgid "No %s found"
+msgstr "沒有找到%s"
+
+msgid "No %s found in Trash"
+msgstr "回收站里沒有%s"
+
+msgid "%s updated."
+msgstr "%s已更新。"
+
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr "%s已发布. <a href=\"%s\">查看%s</a>"
+
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr "%s已更新. <a href=\"%s\">查看%s</a>"
+
+msgid "%s draft updated. <a href=\"%s\">Preview %s</a>"
+msgstr "%s草稿已更新. <a href=\"%s\">预览%s</a>"
+
+msgid "Custom field updated."
+msgstr "自定义栏目已更新。"
+
+msgid "Custom field deleted."
+msgstr "自定义栏目已删除。"
+
+msgid "%s saved."
+msgstr "%s已保存。"
+
+msgid "%s submitted. <a href=\"%s\">Preview %s</a>"
+msgstr "%s已提交. <a href=\"%s\">预览%s</a>"
+
+msgid "%s restored to revision from %s"
+msgstr "%s已恢复. <a href=\"%s\">预览%s</a>"
+
+msgid ""
+"%s scheduled for: <strong>$s</strong>. <a target=\"_blank\" href=\"$s"
+"\">Preview %s</a>"
+msgstr ""
+"%s已定时发布于：<strong>$s</strong>. <a target=\"_blank\" href=\"$s\">预"
+"览%s</a>"
+
+# --------------------------------------
+msgid "Taxonomies"
+msgstr "分类法"
+
+msgid "Add New %s category"
+msgstr "添加新%s分类"
+
+msgid "%s categories"
+msgstr "%s分类"
+
+msgid "Search %s categories"
+msgstr "搜索%s分类"
+
+msgid "New %s category Name"
+msgstr "搜索%s分类"
+
+msgid "Update %s category"
+msgstr "搜索%s分类"
+
+msgid "Parent %s category"
+msgstr "父%s分类"
+
+msgid "Edit %s category"
+msgstr "编辑%s分类"
+
+msgid "All %s categories"
+msgstr "所有%s分类"
+
+msgid "Separate %s with commas"
+msgstr "多个%s标签请用英文逗号（,）分开"
+
+msgid "Add or remove %s"
+msgstr "添加和删除%s分类目录"
+
+msgid "Choose from the most used %s"
+msgstr "从常用%s标签中选择"
+
+msgid "No %s found."
+msgstr "未找到%s分类目录"
+
+# --------------------------------------
+msgid "Meta Box"
+msgstr "自定义栏目"
+
+msgctxt "metabox"
+msgid "The post meta for %s:"
+msgstr "用于 %s 的自定义项目："
+
+# --------------------------------------
+msgid "Breadcrumb"
+msgstr "面包屑导航"
+
+msgid "Location:"
+msgstr "当前位置"
+
+msgid "Tags:"
+msgstr "标签："
+
+msgid "Products list"
+msgstr "商品列表"
+
+msgid "Articles list"
+msgstr "文章列表"
+
+msgid "Your search is:"
+msgstr "你搜索的是："
+
+msgid "Oops, Look seems we lost something...(404)"
+msgstr "啊哦, 看起来我们丢失了什么……(404)"
+
+msgid "Return to %s"
+msgstr "返回%s"
+
+msgid "Attachment"
+msgstr "（附件）"
+
+# --------------------------------------
+msgid "Function"
+msgstr "函数"
+
+# --------------------------------------
+msgid "Shortcode"
+msgstr "短代码"
+
+# --------------------------------------
+msgid "Editor Buttons"
+msgstr "编辑器按钮"
+
+# --------------------------------------
+msgid "Sidebars"
+msgstr "边栏"
+
+# --------------------------------------
+msgid "Widgets"
+msgstr "小工具"
+
+# --------------------------------------
+msgid "Customize"
+msgstr "自定义"
+
+msgid "Website Settings"
+msgstr "网站设置"
+
+msgid ""
+"Upload a logo to replace the default site name and description in the "
+"header, and change ICP infomation."
+msgstr "上传Logo替换页眉默认的网站名和描述，改变页尾ICP备案信息等。"
+
+msgid "Logo"
+msgstr "网站图标(Logo)"
+
+msgid "ICP"
+msgstr "ICP备案号"
+
+msgctxt "customize"
+msgid "Using existing section: <strong>%s</strong><br />"
+msgstr "使用已存在的Section：<strong>%s</strong><br />"
+
+msgctxt "customize"
+msgid "Setting in this section: %s."
+msgstr "在此Section下的设置：%s。"
+
+msgctxt "customize"
+msgid "Add new section: <strong>%s</strong><br />"
+msgstr "添加新的Section：<strong>%s</strong><br />"
+
+# --------------------------------------
+msgid "Theme Support"
+msgstr "主题支持(add_theme_support)"
+
+# --------------------------------------
+msgid "Navigation Menus"
+msgstr "导航菜单"
+
+# --------------------------------------
+msgid "Roles"
+msgstr "角色"
+
+msgid "Capabilities"
+msgstr "权限"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Editor"
+msgstr "编辑"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Contributor"
+msgstr "投稿者"
+
+msgid "Subscriber"
+msgstr "订阅者"
+
+msgid "Add a new user role:"
+msgstr "添加一个新用户角色："
+
+msgid "New role code (The alphanumeric and underlined):"
+msgstr "新角色代码（字母数字和下划线）："
+
+msgid "Display Name:"
+msgstr "显示名："
+
+msgid "Update capabilities of user roles"
+msgstr "更新用户角色权限"
+
+msgid "Delete user roles"
+msgstr "删除用户角色"
+
+msgid "No custom user roles in this website."
+msgstr "这个网站还没有任何自定义的用户角色。"
+
+# --------------------------------------
+msgid "User Meta"
+msgstr "用戶元数据"
+
+msgctxt "User Meta"
+msgid "Disabled user contact information: "
+msgstr "已禁用的用户联系信息："
+
+msgctxt "User Meta"
+msgid "Added user contact information: "
+msgstr "已添加的用户联系信息："
+
+# --------------------------------------
+msgid "Attachment Meta"
+msgstr "附件自定义项目"
+
+# #####################################################
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Smilies"
+msgstr "表情"
+
+# --------------------------------------
+msgid "QRCode"
+msgstr "二维码"
+
+msgctxt "qrcode"
+msgid "<strong>data</strong> is data of QRCode (Required)."
+msgstr "<strong>data</strong> 是二维码的内容(必须)。"
+
+msgctxt "qrcode"
+msgid ""
+"<strong>level</strong> is level of QRCode, There are L / M / Q / H optional "
+"(optional - defaults to L)."
+msgstr "<strong>level</strong> 是二维码级别，有L/M/Q/H可选 (可选，默认L)。"
+
+msgctxt "qrcode"
+msgid "<strong>data</strong> is size of QRCode (optional - defaults to 4)."
+msgstr ""
+"<strong>size</strong> 是 生成二维码的大小，Integer range is 1-10(可选，默认4)"
+
+# --------------------------------------
+msgid "syntaxHighLighter"
+msgstr "语法高亮"
+
+msgid "syntaxHighLighter 2"
+msgstr "语法高亮(syntaxHighLighter) v2"
+
+msgid "syntaxHighLighter 3"
+msgstr "语法高亮(syntaxHighLighter) v3"
+
+msgid ""
+"SyntaxHighlighter %s introduced custom CSS themes.<br />This means that by "
+"switching out just one CSS file you can completely change the look and feel "
+"of the highlighted syntax.<br />A small number of popular color themes are "
+"included with SyntaxHighlighter and you can easily make your own."
+msgstr ""
+"SyntaxHighlighter V%s 引入自定义CSS主题。<br />这意味着加载一个CSS文件，就可"
+"以改变语法高亮的视觉效果和感觉。<br />你可以轻松使用SyntaxHighlighter包含的少"
+"数颜色主题。"
+
+msgid "Please select theme..."
+msgstr "请选择主题..."
+
+msgid "Brushes"
+msgstr "刷子"
+
+msgid ""
+"SyntaxHighlighter uses separate syntax files called brushes to define its "
+"highlighting functionality."
+msgstr "SyntaxHighlighter使用名为刷子的独有的语法文件来定义其高亮功能。"
+
+# --------------------------------------
+msgid "Theme Colors"
+msgstr "主题色彩"
+
+msgid ""
+"Visitors can change the color of the theme from the web pages, and color "
+"code saved in cookies."
+msgstr "访问者可以通过网站前台页面改变主题的颜色，颜色代码保存在cookies中。"
+
+# --------------------------------------
+msgid "Local Avatars"
+msgstr "本地头像"
+
+msgid "Allows users upload local avatar to website."
+msgstr "允许用户上传本地图像到网站。"
+
+# --------------------------------------
+msgid "QQWorld e-Commerce"
+msgstr "阿Q的电子商务"
+
+msgid "Product"
+msgstr "商品"
+
+msgid "Products"
+msgstr "商品"
+
+msgid "QCommerce"
+msgstr "阿Q的电子商务"
+
+msgid "Order"
+msgstr "订单"
+
+msgid "Orders"
+msgstr "订单"
+
+msgid "QQWorld e-Commerce's products"
+msgstr "阿Q的电子商务的商品"
+
+msgid "Product Category"
+msgstr "商品分类"
+
+msgid "Product Categories"
+msgstr "商品分类"
+
+msgid "Product Tag"
+msgstr "商品标签"
+
+msgid "Product Tags"
+msgstr "商品标签"
+
+msgid "Product Variation"
+msgstr "商品规格"
+
+msgid "Product Variations"
+msgstr "商品规格"
+
+# #####################################################
+msgid "Lightbox"
+msgstr "灯箱"
+
+msgid "QQWorld Flybox"
+msgstr "阿Q的飞箱"
+
+msgctxt "flybox"
+msgid ""
+"qqworldFlybox I developed the first Lightbox plugin based on jQuery. "
+"Development of mind because I was the qqworld project v3 uses Ajax "
+"technology to read the article, but to find online all the lightbox plugin "
+"can not read the content that generated by js, in order to self-sufficiency, "
+"self-reliant only. A time when WAiWAi Magazine 075 production."
+msgstr ""
+"qqworldFlybox 是我开发的第一款基于jQuery的灯箱插件。开发的初衷是因为我的阿Q的"
+"项目第三版使用了Ajax读取文章的技术，但网上找的灯箱插件都无法读取js生成的内"
+"容，要想自给自足，只有自力更生了。时值WAiWAi杂志075期的制作。"
+
+msgctxt "flybox"
+msgid ""
+"Background color opacity in the range between 0 and 1, including 0 and 1."
+msgstr "背景颜色不透明度，范围在0和1之间，包括0和1。"
+
+msgctxt "flybox"
+msgid "Animation speed, in milliseconds."
+msgstr "动画播放速度，以毫秒为单位。"
+
+msgctxt "flybox"
+msgid "Animation time interval, in milliseconds."
+msgstr "动画时间间隔，以毫秒为单位。"
+
+msgctxt "flybox"
+msgid "Show Navigation (Prev & Next)."
+msgstr "显示导航(上一幅 & 下一幅)。"
+
+msgctxt "flybox"
+msgid "Show pagination."
+msgstr "显示分页。"
+
+msgctxt "flybox"
+msgid "Auto hide pagination."
+msgstr "自动隐藏分页。"
+
+msgctxt "flybox"
+msgid ""
+"An array can contain a number of functions, each function returns a "
+"thumbnail picture may object relative to the path of the event object for "
+"jQuery."
+msgstr ""
+"一个数组，可以包含数个函数，每个函数返回可能的缩略图图片对象相对于时间对象的"
+"jQuery路径。"
+
+msgctxt "flybox"
+msgid ""
+"An array can contain a number of functions, each function returns a title "
+"may object relative to the path of the event object for jQuery."
+msgstr ""
+"一个数组，可以包含数个函数，每个函数返回可能的标题对象相对于事件对象的jQuery"
+"路径。"
+
+msgctxt "flybox"
+msgid ""
+"An array can contain a number of functions, each function returns a "
+"description may object relative to the path of the event object for jQuery."
+msgstr ""
+"一个数组，可以包含数个函数，每个函数返回可能的描述文字对象相对于时间对象的"
+"jQuery路径。"
+
+msgctxt "flybox"
+msgid ""
+"An array can contain a number of functions, each function returns a link "
+"href may object relative to the path of the event object for jQuery."
+msgstr ""
+"一个数组，可以包含数个函数，每个函数返回可能的链接对象相对于时间对象的jQuery"
+"路径。"
+
+msgctxt "flybox"
+msgid "Show control panel."
+msgstr "显示控制面板"
+
+msgctxt "flybox"
+msgid "Show debug window."
+msgstr "显示调试窗"
+
+# #####################################################
+msgid "Slider"
+msgstr "幻灯片"
+
+msgid "Sliders"
+msgstr "幻灯片"
+
+msgid "Slider Images"
+msgstr "幻灯图片"
+
+msgid "Preview Slider"
+msgstr "预览幻灯片"
+
+msgid "Quick Upload"
+msgstr "快速上传"
+
+msgid "Slider configuration"
+msgstr "幻灯片配置"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Website for Slider."
+msgstr "用于幻灯片"
+
+msgid "Add Images of Slider"
+msgstr "添加幻灯片图片"
+
+# --------------------------------------
+msgid "QQWorld Responsive Slider"
+msgstr "阿Q的响应式幻灯片"
+
+msgid "Please select content type..."
+msgstr "请选择内容类型..."
+
+msgid "Please select direction..."
+msgstr "请选择方向..."
+
+msgid "Images"
+msgstr "图片"
+
+msgid "HTML"
+msgstr "HTML代码"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "'image'/'html'，Choose %s for Images, Choose %s for HTML content."
+msgstr "'image'/'html'，纯图片内容请选择%s，HTML内容请选择%s。"
+
+msgid "Rolling direction of the slide."
+msgstr "幻灯片滚动方向。"
+
+msgid "The width of the slider image."
+msgstr "幻灯片图片的宽度。"
+
+msgid "The height of the slider image."
+msgstr "幻灯片图片的高度。"
+
+msgid "The container ID of outermost layer for custom style."
+msgstr "最外层的容器ID，用于自定义样式。"
+
+msgid "The speed of slider play, in milliseconds."
+msgstr "幻灯片播放速度，以毫秒为单位。"
+
+msgid "Slideshow interval, in milliseconds."
+msgstr "幻灯片播放间隔，以毫秒为单位。"
+
+msgid "Mouse over to stop play."
+msgstr "鼠标经过停止播放。"
+
+msgid "Display the page navigation."
+msgstr "是否显示翻页导航。"
+
+msgid "Auto Hide Navigation."
+msgstr "自动隐藏导航。"
+
+msgid "Show Pager."
+msgstr "显示分页。"
+
+msgid "Auto Hide pagination."
+msgstr "自动隐藏分页。"
+
+msgid "Auto Play."
+msgstr "自动播放。"
+
+msgid ""
+"used with jquery.easing.1.3.js - see http://gsgd.co.uk/sandbox/jquery/"
+"easing/ for available options"
+msgstr ""
+"使用jquery.easing.1.3.js - 在 http://gsgd.co.uk/sandbox/jquery/easing/ 查看可"
+"用的选项。"
+
+# #####################################################
+msgid "Menus"
+msgstr "菜单"
+
+# --------------------------------------
+msgid "Primary Menu"
+msgstr "主菜单"
+
+# --------------------------------------
+msgid "Dropdown Menu"
+msgstr "下拉菜单"
+
+msgid "QQWorld Dropdown Menu"
+msgstr "阿Q的下拉菜单"
+
+msgid "The direction of menu."
+msgstr "菜单的方向。"
+
+msgid "The style of showing dropdown menu."
+msgstr "显示下拉菜单的样式。"
+
+msgid "The style of hiding dropdown menu."
+msgstr "隐藏下拉菜单的样式。"
+
+msgid ""
+"Michael Wang original drop-down menu, responsive design, and support the "
+"touch events."
+msgstr "阿Q原创的下拉菜单，响应式设计，并且支持触摸事件。"
+
+# #####################################################
+msgid "Resource"
+msgstr "资源"
+
+msgid "Javascript"
+msgstr "JS脚本"
+
+msgid "CSS"
+msgstr "层叠样式表(CSS)"
+
+# #####################################################
+msgid "Patch"
+msgstr "补丁"
+
+msgid "WP e-Commerce"
+msgstr "WP电子商务(WP e-Commerce)"
+
+msgctxt "patch"
+msgid ""
+"WP e-Commerce is so bad, if you wants to customize wpsc-account-purchase-"
+"history.php, wpsc-account-edit-profile.php and wpsc-account-downloads.php "
+"templates, you must overwrite official actions."
+msgstr ""
+"WP e-Commerce 不厚道啊，如果要自定义wpsc-account-purchase-history.php、wpsc-"
+"account-edit-profile.php和wpsc-account-downloads.php模板，必须覆盖官方的"
+"Actions。"
+
+# #####################################################
+msgid "Shop"
+msgstr "商店"
+
+msgid "Themes Shop"
+msgstr "主题商店"
+
+# #####################################################
+msgid "About"
+msgstr "关于"
+
+msgid "Theme Template"
+msgstr "主题模板"
+
+msgid "QQWorld"
+msgstr "阿Q的世界"
+
+msgctxt "about"
+msgid "About QQWorld"
+msgstr "关于阿Q的世界"
